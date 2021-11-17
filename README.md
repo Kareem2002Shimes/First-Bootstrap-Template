@@ -10,7 +10,7 @@ I made a First Template Website With Bootstrap 5
 
 ## Project Requirement
 
-1. HTML, CSS
+1. HTML, CSS , js , bootstrap 5
 
 ## Starter Files
 
