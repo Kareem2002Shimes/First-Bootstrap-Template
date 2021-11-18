@@ -1,6 +1,11 @@
 body {
   font-family: "Open Sans", sans-serif;
 }
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
 /* small */
 @media (min-width: 768px) {
   .container {
